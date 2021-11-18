@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <body>
+	    <h1>My table</h1>
+		<table style="width:100%">
+		  <ol>
+		    <li>Bread</li>
+			<li>Milk</li>
+			<li>Eggs</li>
+			<li>Cheese</li>
+		  </ol>	
+		  <ul>
+		    <li>Cats</li>
+			<li>Dogs</li>
+			<li>Snakes</li>
+			<li>Birds</li>
+		  </ul>		  
+		</table>  
+	</body>
+	<link rel="stylesheet" type="text/css" href="CSS_List.css">
+</html>
