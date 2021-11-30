@@ -1,0 +1,26 @@
+/*======================================================
+    Author: Denis Kalmykov
+    checkoutmy.cripto
+========================================================
+    CRIPTO STYLES
+======================================================*/
+html {
+    font-family: 'Arial', Arial, Helvetica, sans-serif;
+    font-size: medium;
+    width: large;
+    margin: auto;
+    border: 2px;
+    border-radius: 8px;
+}
+/*======================================================
+    Contact STYLES
+======================================================*/
+
+.reservation input[type="text"] {
+    margin: 8px 1em;
+    border-top: 1px solid #090B0D;
+    border-right: 2px solid #424549;
+    border-bottom: 2px solid #424549;
+    border-left: 1px solid #090B0D;
+    border-radius: 10px;
+}
